@@ -39,3 +39,6 @@ THEN the password is either displayed in an alert or written to the page
 The following image shows the web application's appearance and functionality:
 
 ![password generator demo](./assets/03-javascript-homework-demo.png)
+
+
+Link to deployed app: https://mackenzielc.github.io/homework-3/ 
